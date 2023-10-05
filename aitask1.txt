@@ -1,0 +1,5 @@
+1. Extracted data from a csv file to a postgresql database.
+2. Connected langchain to sql chain.
+3. Used open ai model with open ai APIkey.
+4. Integrated google voice api.
+5. Created a program in python to run the language queries in postgresql, where command is given by voice.
